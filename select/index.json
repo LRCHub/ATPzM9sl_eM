@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Metamorphose",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:06:11.654230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/01_Metamorphose_JAM_Project.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "Laur",
+      "has_synced": true,
+      "path": "select/02_Metamorphose_Laur.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "Ling tosite sigure",
+      "has_synced": false,
+      "path": "select/03_Metamorphose_Ling_tosite_sigure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cadaveric Metamorphose",
+      "artist": "Haemorrhage",
+      "has_synced": false,
+      "path": "select/04_Cadaveric_Metamorphose_Haemorrhage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "GING NANG BOYZ",
+      "has_synced": true,
+      "path": "select/05_Metamorphose_GING_NANG_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "METAMORPHOSE (long long cake mix) [いちごの唄]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": true,
+      "path": "select/06_METAMORPHOSE_(long_long_cake_mix)_[いちごの唄]_Ging_Nang_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "Kairi Yagi",
+      "has_synced": true,
+      "path": "select/07_Metamorphose_Kairi_Yagi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Metamorphose - Single",
+      "artist": "Laur",
+      "has_synced": true,
+      "path": "select/08_Metamorphose_-_Single_Laur.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "metamorphose",
+      "artist": "Yoko Takahashi",
+      "has_synced": false,
+      "path": "select/09_metamorphose_Yoko_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Metamorphose (feat. Art-Smoke & Diib)",
+      "artist": "Nessyou & DJ Sim-H",
+      "has_synced": false,
+      "path": "select/10_Metamorphose_(feat._Art-Smoke_&_Diib)_Nessyou_&_DJ_Sim-H.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "Nessyou, DJ Sim-H, Art-Smoke, Diib",
+      "has_synced": false,
+      "path": "select/11_Metamorphose_Nessyou,_DJ_Sim-H,_Art-Smoke,_Diib.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "Tripsitter",
+      "has_synced": false,
+      "path": "select/12_Metamorphose_Tripsitter.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PAUSE - LYAM (Prod by KOKA) | EP. METAMORPHOSE",
+      "artist": "PAUSE",
+      "has_synced": false,
+      "path": "select/13_PAUSE_-_LYAM_(Prod_by_KOKA)___EP._METAMORPHOSE_PAUSE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Metamorphose",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/14_Metamorphose_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Metamorphose",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Metamorphose_BE_FIRST.txt"
+    }
+  ]
+}
